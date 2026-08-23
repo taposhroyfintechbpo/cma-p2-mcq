@@ -1,0 +1,15 @@
+{
+  "name": "CMA Part 2 — MCQ Practice",
+  "short_name": "CMA P2 MCQ",
+  "description": "Practice CMA Part 2 (Strategic Financial Management) multiple-choice questions with progress tracking. Works offline.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F4F6FA",
+  "theme_color": "#1F3864",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
